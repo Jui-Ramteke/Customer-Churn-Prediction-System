@@ -1,6 +1,6 @@
 # ⚡ Customer Churn Prediction System (ChurnOps)
 
-![Dashboard Overview](images/1.jpg)
+![Dashboard Overview](images/1.png)
 
 ## 📖 Overview
 The **Customer Churn Prediction System** is an end-to-end Machine Learning pipeline and business intelligence dashboard designed to identify at-risk customers before they leave. Built with an XGBoost engine and served via a FastAPI backend, this system translates raw usage data into actionable retention strategies through a modern, SaaS-style Streamlit frontend.
